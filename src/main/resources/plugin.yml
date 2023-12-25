@@ -1,0 +1,4 @@
+name: CartographyEvent
+version: '${project.version}'
+main: net.zffu.cartographyevent.CartographyEventPlugin
+api-version: '1.20'
